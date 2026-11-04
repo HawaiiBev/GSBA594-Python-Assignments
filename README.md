@@ -19,3 +19,11 @@ The notebook demonstrates basic data analysis skills, including importing a CSV 
 
 ## Purpose
 This assignment was completed as part of the GSBA coursework to practice Python programming and introductory data analysis.
+
+## Simple Python Calculator
+
+I also created a simple Python calculator to practice basic programming skills.
+The calculator allows users to enter two numbers and performs addition, subtraction, multiplication, and division.
+It also includes a check to prevent division by zero.
+
+File:  Simple_Calculator.ipynb
